@@ -172,17 +172,17 @@ body {
   overflow: auto;
 }
 .section-3 .section-3-container .prouct-detail-cards .product-detail-card {
-  /* display: inline-block;
-  width: 200px !important;
-  flex: 0 0 auto;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  gap: 4; */
+    display: inline-block;
+    width: 200px !important;
+    flex: 0 0 auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4;
 }
 .section-3
   .section-3-container
-  .prouct-detail-cards
+  .product-detail-cards
   .product-detail-card
   .product-detail-img {
   width: 100%;
