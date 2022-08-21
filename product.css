@@ -61,7 +61,7 @@
   font-weight: 500;
   color: #121212;
 }
-.product-detail .product-container .product-detail-body .buttons button {
+.product-detail .product-container .product-detail-body .buttons {
   margin-top: 20px;
   display: flex;
   gap: 2px;
